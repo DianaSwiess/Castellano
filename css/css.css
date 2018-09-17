@@ -34,6 +34,16 @@ body{
 }
 .contenedor{
 width:100%;
+background-image:url(../img/imagen002.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    margin:0 auto;
+    padding:0px;
+    position:relative;
+    background-repeat:no-repeat;
+    text-align:center;
+    margin-right: auto;
+    margin-left: auto;    
 background-color: #424242;
 box-sizing:border-box;
 }
