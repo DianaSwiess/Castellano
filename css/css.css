@@ -20,7 +20,7 @@ body{
     width:100%;
     height: 800px;
     background-color:gainsboro;
-    background-image:url(../img/../imagen002.jpg);
+    background-image:url(../img/../img/imagen002.jpg);
     background-size: cover;
     background-attachment:fixed;
     margin:0 auto;
