@@ -136,6 +136,9 @@ h3{
     h1{
         font-size:20px;
     }
+     h2{
+        font-size:20px;
+    }
 }
 @media screen and(max-width:500px){
     .contenedor img{
@@ -144,6 +147,9 @@ h3{
     }
     h1{
         font-size:15px;
+    }
+     h2{
+        font-size:20px;
     }
 }
 @media screen and(max-width:369px){
@@ -154,6 +160,9 @@ h3{
     h1{
         font-size:30px;
     }
+     h2{
+        font-size:20px;
+    }
 }
 @media screen and (max-width:400px){
     .contenedor img{
@@ -163,4 +172,7 @@ h3{
     h1{
         font-size:30px;
     }
+    h2{
+        font-size:20px;
+    } 
 }
