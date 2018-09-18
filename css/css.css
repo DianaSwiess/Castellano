@@ -18,8 +18,14 @@ body{
 }
 #cabecera{
     width:100%;
-    height: 800px;
-    background-color:gainsboro;
+    height: 100px;
+    background-color:lavender;
+    justify-content: center;
+    text-align: center;
+   box-sizing:border-box; 
+}
+
+    #aside{
     background-image:url(../img/imagen002.jpg);
     background-size: cover;
     background-attachment:fixed;
