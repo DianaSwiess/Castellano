@@ -40,6 +40,16 @@ body{
     margin-left: auto;
     box-sizing:border-box;
 }
+#aside1{
+   width:100%;
+    height: 200px;
+    background-color:transparent;
+    backface-visibility:hidden;
+    margin:0 auto;
+    padding:0px;
+    text-align:center;
+    box-sizing:border-box; 
+}
 .contenedor{
 width:100%;
 background-image:url(../img/000.jpg);
